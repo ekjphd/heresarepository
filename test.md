@@ -1,6 +1,6 @@
 # Welcome to ENC 4265!
 
-I'm your host, [Dr. Emily Johnson](ekjphd.com)
+I'm your host, [Dr. Emily Johnson](https://ekjphd.com/)
 
 This will be a fun class! 
 
